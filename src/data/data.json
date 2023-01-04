@@ -5,7 +5,7 @@
         "type": "burger",
         "price": 2.99,
         "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "type": "burger",
         "price": 3.79,
         "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "type": "pizza",
         "price": 7.99,
         "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "type": "pizza",
         "price": 5.99,
         "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "type": "tortilla",
         "price": 2.99,
         "image": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "type": "pizza",
         "price": 5.99,
         "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "type": "tortilla",
         "price": 3.49,
         "image": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 8,
@@ -61,6 +61,6 @@
         "type": "tortilla",
         "price": 2.49,
         "image": "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "description": "Tasty tasty"
+        "description": "Lorem is simply dummy text of the printing and typesetting industry."
     }
 ]
