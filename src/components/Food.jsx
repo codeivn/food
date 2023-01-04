@@ -2,8 +2,6 @@ import React from 'react'
 
 import Button2 from './Button2'
 
-import burger from '../assets/images/burger.jpg'
-
 function Food({ title, price, image, type }) {
   return (
     <div className='h-56 w-56 mx-10 border-b-4 shadow-2xl' id='type'>
