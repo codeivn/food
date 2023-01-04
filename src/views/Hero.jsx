@@ -7,7 +7,6 @@ import data from '../data/data.json'
 
 function Hero() {
 
-  
 
   return (
     <div className=''>
@@ -21,7 +20,7 @@ function Hero() {
         <div className='grid grid-cols-1 place-items-center lg:grid-cols-4 gap-4 pt-5 lg:px-48'>
           {data.map((item, index) => (
             <div key={index}>
-              <Link to={`/fodd/${item.id}`}> 
+              <Link to={`/food/${item.id}-${item.title}`}> 
                 <Food title={item.title} price={item.price} image={item.image} type={item.type}/>
               </Link>
             </div>

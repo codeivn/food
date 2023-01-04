@@ -2,17 +2,18 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 import Header from "./views/Header";
 import Hero from "./views/Hero";
-import Footer from "./views/Footer";
+
 import FoodDetails from './views/FoodDetails';
+
 
 function App() {
   return (
     <Router>
-      <div>
+      <div className='App'>
         <Header />
         <div className='content'>
           <Switch>
-            <Route path="/">
+            <Route exact path="/">
               <Hero />
             </Route>
             <Route path="/food/:id">
